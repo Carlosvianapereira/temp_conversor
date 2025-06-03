@@ -3,5 +3,12 @@ function converterCtoF(TempC) {
     console.log(`temperatura = ${tempF} F`);
 }
 
+function convertCtoK(TempC){
+
+}
+
+function converter(){
+    console.log('Ei Clicou');
+}
 converterCtoF(18)
 converterCtoF(34)
