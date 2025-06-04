@@ -1,0 +1,22 @@
+
+
+body {
+    margin-top: 10%;
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+  }
+  .resultado{ 
+    background-color: black;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    font-weight: 500;
+    font-size: 22px;
+    padding: 10px;
+    border-radius: 5px;
+  }
