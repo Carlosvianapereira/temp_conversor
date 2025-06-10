@@ -43,7 +43,7 @@ function limpar() {
     //document.getElementById('resultado').innerHTML = ''
 
     /* Limpa (Oculta) */
-    document.getElementsByClassName('resultado')[0].style.display = 'none'
+    document.getElementsByClassName('resultado')[0].style.display = 'flex'
 }
 
 
